@@ -1,0 +1,6 @@
+framework module TEFMDBManage {
+  umbrella header "TEFMDBManage-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/missleilei/Documents/cocoapod/TEFMDBManage/TEFMDBManage/Example/build/Debug-iphonesimulator/TEFMDBManage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TEFMDBManage-Swift.h",
+          'external-contents': "/Users/missleilei/Documents/cocoapod/TEFMDBManage/TEFMDBManage/Example/build/Debug-iphonesimulator/TEFMDBManage.framework/Headers/TEFMDBManage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TEFMDBManage-umbrella.h",
+          'external-contents': "/Users/missleilei/Documents/cocoapod/TEFMDBManage/TEFMDBManage/Example/Pods/Target Support Files/TEFMDBManage/TEFMDBManage-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/missleilei/Documents/cocoapod/TEFMDBManage/TEFMDBManage/Example/build/Debug-iphonesimulator/TEFMDBManage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/missleilei/Documents/cocoapod/TEFMDBManage/TEFMDBManage/Example/build/Pods.build/Debug-iphonesimulator/TEFMDBManage.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
