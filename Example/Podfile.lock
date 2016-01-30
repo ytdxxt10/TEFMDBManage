@@ -1,0 +1,14 @@
+PODS:
+  - TEFMDBManage (0.1.0)
+
+DEPENDENCIES:
+  - TEFMDBManage (from `../`)
+
+EXTERNAL SOURCES:
+  TEFMDBManage:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TEFMDBManage: a9e2ff6d4a1479b6f3a1fb66f8d3965e10d00330
+
+COCOAPODS: 0.39.0

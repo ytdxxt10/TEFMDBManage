@@ -1,0 +1,25 @@
+{
+  "name": "TEFMDBManage",
+  "version": "0.1.0",
+  "summary": "A short description of TEFMDBManage.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/TEFMDBManage",
+  "license": "MIT",
+  "authors": {
+    "Terry": "ytdxxt10@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/TEFMDBManage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "TEFMDBManage": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

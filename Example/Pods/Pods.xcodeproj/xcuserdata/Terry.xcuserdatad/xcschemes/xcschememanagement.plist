@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-TEFMDBManage_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-TEFMDBManage_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TEFMDBManage-TEFMDBManage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TEFMDBManage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>75D1B9543915ED3CEEE861A4D481C785</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8487AB6A1B3783DCA554034960D608E0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AFC4D934B682FE03F22A73EBE436816F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EDEBEAD7C97B842D9F7D177850F6034D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
